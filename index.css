@@ -1,0 +1,12 @@
+
+    .menu{
+        flex-direction: column;
+       
+    
+    }
+    .menu a{
+        background-color: indigo;
+        margin: 10px ;
+        border-radius: 15px;
+        text-align: center;
+    }
